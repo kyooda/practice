@@ -1,0 +1,1 @@
+INSERT INTO employee(employee_id,employee_name,name) VALUES(1,'山田太郎',30);
